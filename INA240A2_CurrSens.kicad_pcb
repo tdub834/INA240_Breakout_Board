@@ -221,7 +221,7 @@
 		(at 117.725 84.115)
 		(descr "Through hole straight socket strip, 1x01, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x01 2.54mm single row")
-		(property "Reference" "J5"
+		(property "Reference" "ADC_1"
 			(at 0 -2.77 0)
 			(layer "F.SilkS")
 			(uuid "15ed49fd-7592-4db8-ba2c-d79232f18a48")
@@ -553,7 +553,7 @@
 		(at 130.35 84.13)
 		(descr "Through hole straight socket strip, 1x01, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x01 2.54mm single row")
-		(property "Reference" "J6"
+		(property "Reference" "ADC_2"
 			(at 0 -2.77 0)
 			(layer "F.SilkS")
 			(uuid "90be1959-aa4c-4d0d-8139-03ba88d89bc0")
@@ -785,7 +785,7 @@
 		(at 118.1 70.7)
 		(descr "Through hole straight socket strip, 1x01, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x01 2.54mm single row")
-		(property "Reference" "J2"
+		(property "Reference" "D_1"
 			(at 0 -2.77 0)
 			(layer "F.SilkS")
 			(uuid "f6c908d3-d059-4aac-991a-6c78fcb77f7f")
@@ -1017,7 +1017,7 @@
 		(at 112.4 70.64)
 		(descr "Through hole straight socket strip, 1x01, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x01 2.54mm single row")
-		(property "Reference" "J1"
+		(property "Reference" "B_1"
 			(at 0 -2.77 0)
 			(layer "F.SilkS")
 			(uuid "45e150ff-8635-4ac3-9c49-0b2c8f07ef19")
@@ -1249,7 +1249,7 @@
 		(at 112.91 84.11)
 		(descr "Through hole straight socket strip, 1x01, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x01 2.54mm single row")
-		(property "Reference" "J8"
+		(property "Reference" "GND"
 			(at 0 -2.77 0)
 			(layer "F.SilkS")
 			(uuid "71c8bb79-ab8d-4de0-8e82-f033852a7078")
@@ -1879,7 +1879,7 @@
 		(at 125.2 70.4)
 		(descr "Through hole straight socket strip, 1x01, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x01 2.54mm single row")
-		(property "Reference" "J3"
+		(property "Reference" "B_2"
 			(at 0 -2.77 0)
 			(layer "F.SilkS")
 			(uuid "5bdd4a67-a082-44cc-9186-08f61d2aace7")
@@ -2071,7 +2071,7 @@
 			(uuid "506dd5c0-d099-432a-9840-83b0fb1b8763")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 -1.947 0)
 			(layer "F.Fab")
 			(uuid "a4554454-0bd4-44a0-a91b-1d8ee13851fb")
 			(effects
@@ -2754,7 +2754,7 @@
 		(at 124.536667 84.16)
 		(descr "Through hole straight socket strip, 1x01, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x01 2.54mm single row")
-		(property "Reference" "J7"
+		(property "Reference" "3.3V"
 			(at -0.29 -2.75 0)
 			(layer "F.SilkS")
 			(uuid "993db825-a2dd-4dee-aab2-03a94e8d634e")
@@ -2986,7 +2986,7 @@
 		(at 130.6 70.36)
 		(descr "Through hole straight socket strip, 1x01, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x01 2.54mm single row")
-		(property "Reference" "J4"
+		(property "Reference" "D_2"
 			(at 0 -2.77 0)
 			(layer "F.SilkS")
 			(uuid "f8f52967-7c05-43e6-8a67-f5b1f906509f")
